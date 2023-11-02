@@ -1,0 +1,13 @@
+DB_HOST=dpg-ckbc8vfs0fgc73ep0mqg-a
+DB_PORT=5432
+DB_NAME=postgres_test_lpt4
+DB_USER=postgres_test
+DB_PASS=blakstar3807
+
+REDIS_HOST=red-ckbc9j7s0fgc73ep578g
+REDIS_PORT=6379
+
+SECRET_AUTH=e95a3684b9982fcfd46eea716707f80cef515906eb49c4cb961dfde39a41ce21
+
+SMTP_USER=XXXXXXXXXXXX@gmail.com
+SMTP_PASSWORD=XXXXXXXXX
