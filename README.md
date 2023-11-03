@@ -21,4 +21,7 @@
 
 ![Снимок](https://github.com/Volotova/FastAPI_invest/assets/118131020/bbabc075-f857-4dd1-87f4-2db8be936eae)
 
-Так же с
+`Chat` - онлайн чат хранящий последние 5 сообщений для новых подключенных пользователей.
+
+![Снимок](https://github.com/Volotova/FastAPI_invest/assets/118131020/808eb209-0aa2-47e8-b60a-3fa5aa19a7f8)
+![Снимок](https://github.com/Volotova/FastAPI_invest/assets/118131020/87c025d7-d18a-4fcc-b5bf-26a29f0eec4d)
